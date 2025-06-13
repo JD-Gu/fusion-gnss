@@ -10,3 +10,7 @@
 JD-Gu/JD-Gu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Building
+
+Run `./setup.sh` before building the project. It installs required Python packages and compiles the C library.
